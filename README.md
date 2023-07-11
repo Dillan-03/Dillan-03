@@ -5,5 +5,5 @@ Currently studying **BSC Computer Science with Artifical Intelligence** at the *
 - 📫 How to reach me: dillankerai3@outlook.com
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Dillan-03&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="Dillan-03" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dillan-03&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Dillan-03&count-private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="Dillan-03" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dillan-03&langs_count=10&count-private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" />
