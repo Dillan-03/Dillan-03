@@ -2,6 +2,8 @@
 
 Currently studying **BSC Computer Science with Artifical Intelligence** at the **University of Leeds** (2021-2024)
 
+Note: Statistics below only include public repositories. Private repositories will be added later. 
+
 - 📫 How to reach me: dillankerai3@outlook.com
 
 
