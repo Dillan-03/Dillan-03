@@ -4,6 +4,7 @@ Currently studying **BSC Computer Science with Artifical Intelligence** at the *
 
 - 📫 How to reach me: dillankerai3@outlook.com
 
+- Note: Private repositories will be made public once completed.
 
 <p align="left"> 
   <img src="https://github-readme-stats-six-beta-91.vercel.app/api?username=Dillan-03&count-private=true&show_icons=true&hide_border=false" alt="Dillan-03" />
