@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 - 🎓 **Bachelor of Science in Computer Science with Artifical Intelligence** at the **University of Leeds** achieved 2:1 (2021-2024)
-- Keen to enter into the technology sector
 
 - 📫 How to reach me: dillankerai3@outlook.com
 
