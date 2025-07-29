@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: dillankerai3@outlook.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dillan-03)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dillan-03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dillankerai.com/)
