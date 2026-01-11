@@ -12,7 +12,7 @@
 
 - Note: Private repositories will be made public once completed.
 
-<p align="left"> 
+<!--<p align="left"> 
   <img src="https://github-readme-stats-five-eta-95.vercel.app/api?username=Dillan-03&count-private=true&show_icons=true&hide_border=false" alt="Dillan-03" />
 <p align="left"> 
   <img src="https://github-readme-stats-five-eta-95.vercel.app/api/top-langs/?username=Dillan-03&count-private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" />
