@@ -11,7 +11,7 @@
 
 - Note: Private repositories will be made public once completed.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dillan-03)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dillan-03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--<p align="left"> 
   <img src="https://github-readme-stats-five-eta-95.vercel.app/api?username=Dillan-03&count-private=true&show_icons=true&hide_border=false" alt="Dillan-03" />
 <p align="left"> 
