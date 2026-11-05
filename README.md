@@ -20,6 +20,6 @@ Mobile engineer by day, builder by night. I work across the stack — mobile, we
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/dillankerai.com-000?style=for-the-badge)](https://dillankerai.com/)
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://dillankerai.com/)
 
 > Private repos go public once they ship.
