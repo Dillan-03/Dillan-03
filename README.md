@@ -11,10 +11,11 @@ Mobile engineer by day, builder by night. Typescript and Supabase — end-to-end
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Supabase](https://img.shields.io/badge/supabase-1F1F1F?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![php](https://img.shields.io/badge/php-1A1A1A?style=for-the-badge&logo=php&logoColor=339933)
+![Laravel](https://img.shields.io/badge/laravel-1A1A1A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![PostgreSQL](https://img.shields.io/badge/postgresql-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/mysql-1A1A1A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Go](https://img.shields.io/badge/go-1A1A1A?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logoColor=white)
 
 ## 🔗 Links
 
