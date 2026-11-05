@@ -1,6 +1,6 @@
 ### Hi, I'm Dillan 👋
 
-Mobile engineer by day, builder by night. I work across the stack — mobile, web and the backends behind them.
+Mobile engineer by day, builder by night. I work across the stack - mobile, web and the backends behind them.
 
 - 📱 Shipping production apps people rely on
 - 🔭 Always building something on the side
