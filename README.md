@@ -1,8 +1,9 @@
 ### Hi, I'm Dillan 👋
 
-Mobile engineer by day, builder by night. Typescript and Supabase — end-to-end, whatever the project needs.
+Mobile engineer by day, builder by night. I work across the stack — mobile, web and the backends behind them.
 
-- 🔭 Currently building side projects in my spare time
+- 📱 Shipping production apps people rely on
+- 🔭 Always building something on the side
 - 🌱 Into well-architected code and restrained, editorial design
 - 📫 Best way to reach me: my portfolio below
 
@@ -19,8 +20,6 @@ Mobile engineer by day, builder by night. Typescript and Supabase — end-to-end
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dillankerai.com/)
+[![portfolio](https://img.shields.io/badge/dillankerai.com-000?style=for-the-badge)](https://dillankerai.com/)
 
-## 📈 Activity
-
-> Private repositories are made public once completed.
+> Private repos go public once they ship.
